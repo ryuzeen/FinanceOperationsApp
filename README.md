@@ -95,6 +95,3 @@ Valor total de vendas:  R$ 20,00
 ## 5. Conclusão
 
 A aplicação foi testada com sucesso, atendendo a todos os requisitos funcionais propostos. As funcionalidades foram implementadas com uso de POO, interface, polimorfismo, tratamento de exceções e armazenamento em memória.
-
----
-Documento gerado em: 19/05/2025 01:13:01
