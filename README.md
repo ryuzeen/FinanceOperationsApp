@@ -25,7 +25,7 @@ Foram executados os seguintes testes manuais:
 
 A aplicação foi executada em ambiente Windows com .NET 6.0. Abaixo, seguem prints da execução da aplicação com os testes mencionados.
 
-```bash
+```
 --- Menu Principal ---
 1 - Registrar operação
 2 - Listar operações
